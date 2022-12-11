@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/EthanG19/TripPlanner#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "webpack": "^4.41.0"
   }
 }
